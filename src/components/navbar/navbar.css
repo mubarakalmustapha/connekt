@@ -1,0 +1,33 @@
+.navbar.custom-navbar {
+    background-color: #EFC218 !important;
+    z-index: 100;
+}
+
+.custom-navbar img {
+    height: 40px;
+}
+
+.navbar-nav .nav-item .nav-link {
+    margin-right: 70px; 
+    cursor: pointer; 
+    color: #221F1F;
+    font-size: 18px;
+    line-height: 23px;
+    font-weight: 500;
+    opacity: 0.8; 
+}
+
+
+/* .navbar.custom-navbar {
+    background-color: #EFC218;
+    z-index: 100;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    transition: top 0.3s;
+}
+
+.navbar.custom-navbar.sticky {
+    top: 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+} */

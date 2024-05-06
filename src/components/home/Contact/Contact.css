@@ -1,0 +1,41 @@
+.contact-wrapper{
+    width: 76% !important;
+    height: 100%;
+    margin: auto;
+    text-align: left;
+}
+
+.contact-wrapper p{
+    color: #EFC218;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.form-container{
+    background-color: #F9F9F9;
+    width: 100%;
+}
+
+.contact-wrapper button {
+    padding: 12px 40px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #EFC218; 
+    background-color: #000; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.contact-wrapper button:hover {
+    background-color: #333;
+}
+
+.contact-form{
+    background-color: #F9F9F9;
+    padding: 20px;
+    width: 90%;
+    padding-right: 200px;
+    height: auto;
+}

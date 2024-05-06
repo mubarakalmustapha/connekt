@@ -1,0 +1,26 @@
+.faq-section{
+  background-color: #EFC218;
+  height: 85vh !important;
+}
+
+.collapse-container{
+  background-color: #F9F9F9;
+  cursor: pointer;
+  border-radius: 8px;
+  border: 1px solid #D8D8D8;
+  text-align: left;
+  margin-bottom: 1rem;
+  
+}
+
+.custom-link .fa-minus {
+  color: #FFFFFF;
+}
+
+.custom-collapse {
+  transition: max-height 0.3s ease-in-out; 
+}
+
+.collapse-container.opened {
+  background-color: #EAA624;
+}

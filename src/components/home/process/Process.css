@@ -1,0 +1,65 @@
+.process-section{
+    margin-top: 30px;
+    height: 80vh !important;
+}
+
+.process-heading {
+    text-align: center;
+    color: #949494;
+}
+
+.process-cards {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.process-card {
+    background-color: #221F1F;
+    width: 329px;
+    height: 297px;
+    border-radius: 23.47px;
+    margin: 0 20px;
+    padding: 30px;
+    
+}
+
+.process-card.middle{
+    background-color: #EFC218;
+}
+
+.process-circle {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #322F2F;
+    margin: 40px auto 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.process-circle.middle{
+    background-color: #C49E0D;
+}
+
+.process-card span {
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+
+.process-card p {
+    font-size: 14px;
+    color: white;
+}
+
+.process-card.middle p {
+    color: black;
+}
+
+.process-card.middle span {
+    color: black;
+}
